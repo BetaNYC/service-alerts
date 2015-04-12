@@ -4,8 +4,8 @@ class Delay < ActiveRecord::Base
          .update_all(active: false)
   end
 
-  def self.create_or_update alert_type, alert_html
-    data = self.extract_data alert_type, alert_html
+  def self.create_or_update alert_nk
+    data = self.extract_data alert_nk
     alert = Delay.find_by(active: true, original_html: data[:original_html]) ||
             Delay.create(data)
 
@@ -22,10 +22,10 @@ class Delay < ActiveRecord::Base
     end
   end
 
-  def self.extract_data alert_type, alert_html
-    alert_text = alert_html.inner_text.sub("Allow additional travel time.", '')
+  def self.extract_data alert_nk
+    alert_text = alert_nk.inner_text.sub("Allow additional travel time.", '')
 
-    standard_delay = /Posted: (.+) Due to (.+) (between.+|at.+),.(.+).(?:train service is|trains are) running with delays(.*)\./
+    standard_delay = /Posted: (.+) Due to (.+) (between.+?|at.+?),.(.+).(?:train service is|trains are) running with delays(.*)\./
     residual_delay = /Posted: (.+) Following an earlier incident at (.+),.(.+).trains service has resumed with residual delays(.*)\./
 
     data = case alert_text
@@ -47,7 +47,7 @@ class Delay < ActiveRecord::Base
       {}
     end
 
-    data[:original_html] = alert_type.to_s + alert_html.to_s
+    data[:original_html] = alert_nk.css('body').inner_html
     data[:active] = true
     data
   end
