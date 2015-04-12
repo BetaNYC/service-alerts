@@ -2,13 +2,18 @@ require 'open-uri'
 
 class Feed
 
-  def initialize
-    page = get_page
+  def self.get_page url="http://web.mta.info/status/serviceStatus.txt"
+    open url
+  end
+
+  def initialize page, save_feed=true
     @doc = parse_page page
     $mta_current_time = mta_current_time
 
-    # FIXME: This feels very wrong. I'd rather that this used the Feed model.
-    RawFeed.create feed: @doc.inner_html, mta_current_time: $mta_current_time
+    if save_feed
+      # FIXME: This feels very wrong. I'd rather that this used the Feed model.
+      RawFeed.create feed: @doc.inner_html, mta_current_time: $mta_current_time
+    end
 
     # If the feed's timestamp is equal to end_time of the existing active delays
     # then the feed hasn't been updated since we last checked it.
@@ -27,14 +32,6 @@ class Feed
   def mta_current_time
     time_str = @doc.xpath('service/timestamp').inner_text
     DateTime.strptime time_str, "%m/%d/%Y %l:%M:%S %p"
-  end
-
-  def get_page
-    url = "http://web.mta.info/status/serviceStatus.txt"
-    open url
-
-    # # for testing
-    # open("../research/2015-02-22-08-42-01.xml")
   end
 
   def parse_page page
