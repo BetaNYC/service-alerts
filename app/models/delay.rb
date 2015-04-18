@@ -25,8 +25,8 @@ class Delay < ActiveRecord::Base
   def self.extract_data alert_nk
     alert_text = alert_nk.inner_text.sub("Allow additional travel time.", '')
 
-    standard_delay = /Posted: (.+) Due to (.+) (between.+?|at.+?),.(.+).(?:train service is|trains are) running with delays(.*)\./
-    residual_delay = /Posted: (.+) Following an earlier incident at (.+),.(.+).trains service has resumed with residual delays(.*)\./
+    standard_delay = /Posted: (.+) Due to (.+) (between.+?|at.+?),.(.+).(?:train service|trains?)(?: is| are)? running with delays(.*)\./
+    residual_delay = /Posted: (.+) (?:Following|Due to) an earlier incident (between.+?|at.+?),.(.+).trains? service has resumed with(?: residual)? delays(.*)\./
 
     data = case alert_text
     when standard_delay
