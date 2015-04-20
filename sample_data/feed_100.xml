@@ -1,0 +1,651 @@
+<service>
+  <responsecode>0</responsecode>
+  <timestamp>3/26/2015 9:14:58 AM</timestamp>
+  <subway>
+    <line>
+      <name>123</name>
+      <status>GOOD SERVICE</status>
+      <text></text>
+      <Date></Date>
+      <Time></Time>
+    </line>
+    <line>
+      <name>456</name>
+      <status>GOOD SERVICE</status>
+      <text></text>
+      <Date></Date>
+      <Time></Time>
+    </line>
+    <line>
+      <name>7</name>
+      <status>GOOD SERVICE</status>
+      <text></text>
+      <Date></Date>
+      <Time></Time>
+    </line>
+    <line>
+      <name>ACE</name>
+      <status>GOOD SERVICE</status>
+      <text></text>
+      <Date></Date>
+      <Time></Time>
+    </line>
+    <line>
+      <name>BDFM</name>
+      <status>DELAYS</status>
+      <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/26/2015&amp;nbsp; 8:00AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to signal problems at &lt;STRONG&gt;Avenue P&lt;/STRONG&gt;, southbound [F] trains are running with delays.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+      <Date>03/26/2015</Date>
+      <Time> 8:00AM</Time>
+    </line>
+    <line>
+      <name>G</name>
+      <status>GOOD SERVICE</status>
+      <text></text>
+      <Date></Date>
+      <Time></Time>
+    </line>
+    <line>
+      <name>JZ</name>
+      <status>GOOD SERVICE</status>
+      <text></text>
+      <Date></Date>
+      <Time></Time>
+    </line>
+    <line>
+      <name>L</name>
+      <status>GOOD SERVICE</status>
+      <text></text>
+      <Date></Date>
+      <Time></Time>
+    </line>
+    <line>
+      <name>NQR</name>
+      <status>GOOD SERVICE</status>
+      <text></text>
+      <Date></Date>
+      <Time></Time>
+    </line>
+    <line>
+      <name>S</name>
+      <status>GOOD SERVICE</status>
+      <text></text>
+      <Date></Date>
+      <Time></Time>
+    </line>
+    <line>
+      <name>SIR</name>
+      <status>GOOD SERVICE</status>
+      <text></text>
+      <Date></Date>
+      <Time></Time>
+    </line>
+  </subway>
+  <bus>
+    <line>
+      <name>B1 - B84</name>
+      <status>DELAYS</status>
+      <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;03/26/2015&amp;nbsp; 8:56AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;B35&lt;/STRONG&gt;&#xA0;and &lt;STRONG&gt;B35Ltd&lt;/STRONG&gt; buses are running with delays in both direction, due to DOT work on 39 St between Fort Hamilton Pkwy&#xA0;and 13 Av. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;03/26/2015&amp;nbsp; 8:51AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;B63&lt;/STRONG&gt; buses are running with delays in both directions, due to road work on 5 Av between 7 St and 8 St.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;03/26/2015&amp;nbsp; 8:33AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;B26&lt;/STRONG&gt; buses are detoured, due to milling on Halsey St between Howard Av&#xA0;and Patchen Av.&lt;/P&gt;
+&lt;P&gt;Detour is as follows;&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Westbound&lt;/STRONG&gt;: Via Halsey St, right on Howard Av, left on Hancock St, left on Reid Av, right on Halsey St and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Eastbound&lt;/STRONG&gt;: Via Halsey St, left on Reid St, right on Jefferson Av, right on Saratoga Av, left on Halsey St and regular route.&lt;/P&gt;
+&lt;P&gt;Corresponding stops will be made along detour route.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(93500);&gt;
+&lt;b&gt;B38/B38&lt;/b&gt; LTD&lt;b&gt; - Eastbound buses rerouted from Lafayette Av between&lt;br clear= left&gt;Stuyvesant Av and Malcolm X Blvd
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 93500 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice
+&lt;br&gt;
+&lt;br&gt;Due to construction, buses make corresponding stops along the detoured route.
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(935000);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;
+&lt;br&gt;&lt;div id="935000"; style="display:none;"&gt;Via Lafayette Av
+&lt;br&gt;Right on Stuyvesant Av
+&lt;br&gt;Left on Greene Av
+&lt;br&gt;Left on Malcolm X Blvd
+&lt;br&gt;Right on Lafayette Av then regular route&lt;/div&gt;
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;Reminder&lt;/b&gt;:  &lt;a href=http://web.mta.info/nyct/bus/schedule/bkln/b038cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;B38 LTD&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt; buses do not operate overnight.
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(89552);&gt;
+&lt;b&gt;B24 and B46/B46 &lt;/b&gt;LTD&lt;b&gt; buses detoured from the Entrance on Broadway at Washington Plz Terminal
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 89552 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice
+&lt;br&gt;
+&lt;br&gt;Due to &lt;i&gt;c&lt;/i&gt;onstruction, buses operate as follows:
+&lt;br&gt;
+&lt;br&gt;Via Broadway
+&lt;br&gt;Right on Roebling St into Washington Plaza.
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(88492);&gt;
+&lt;b&gt;B20 and Q24 - Northbound/Westbound buses detoured from Van Sinderen Av at Broadway&lt;br clear= left&gt;Junction due to construction - No stops missed
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 88492 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(884920);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;
+&lt;br&gt;&lt;div id="884920"; style="display:none;"&gt;Via Jamaica Av
+&lt;br&gt;Into Fulton St
+&lt;br&gt;Right on Eastern Pkwy
+&lt;br&gt;Left on Broadway then regular route&lt;/div&gt;
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;Reminder&lt;/b&gt;:  &lt;a href=http://web.mta.info/nyct/bus/schedule/bkln/b020cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;B20&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt; buses do not operate overnight.
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+      <Date>03/26/2015</Date>
+      <Time> 8:56AM</Time>
+    </line>
+    <line>
+      <name>B100 - B103</name>
+      <status>GOOD SERVICE</status>
+      <text></text>
+      <Date></Date>
+      <Time></Time>
+    </line>
+    <line>
+      <name>BM1 - BM5</name>
+      <status>GOOD SERVICE</status>
+      <text></text>
+      <Date></Date>
+      <Time></Time>
+    </line>
+    <line>
+      <name>BX1 - BX55</name>
+      <status>GOOD SERVICE</status>
+      <text></text>
+      <Date></Date>
+      <Time></Time>
+    </line>
+    <line>
+      <name>BXM1 - BXM18</name>
+      <status>GOOD SERVICE</status>
+      <text></text>
+      <Date></Date>
+      <Time></Time>
+    </line>
+    <line>
+      <name>M1 - M116</name>
+      <status>DELAYS</status>
+      <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;03/26/2015&amp;nbsp; 8:02AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;M1&lt;/STRONG&gt;, &lt;STRONG&gt;M2&lt;/STRONG&gt;, &lt;STRONG&gt;M3&lt;/STRONG&gt;&#xA0;and &lt;STRONG&gt;M4&lt;/STRONG&gt; buses are running with delays in both directions, due to heavy traffic on 5 Av between 139 St&#xA0;and 125 St&#xA0;and on&#xA0;110 St between Frederick Douglas Blvd&#xA0;and 5 Av.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(94619);&gt;
+&lt;b&gt;M15/M15 SBS - Northbound bus stop on 1 Av at 28 St temporarily closed
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 94619 class="plannedWorkDetail" &gt;&lt;/b&gt;Until Summer 2015
+&lt;br&gt;
+&lt;br&gt;Due to construction, please use nearby stops:
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;M15: &lt;/b&gt; 1 Av&lt;b&gt; &lt;/b&gt;at 25 St. 
+&lt;br&gt;&lt;b&gt;M15 SBS: &lt;/b&gt; 1 Av at 24 St.  
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;Reminder&lt;/b&gt;:  &lt;a href=http://web.mta.info/nyct/bus/schedule/manh/m015scur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;M15 SBS &lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt; buses do not operate overnight.
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(94109);&gt;
+&lt;b&gt;M15 - Northbound bus stop on 1 Av between E 86 St and E 87 St temporarily relocated
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 94109 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice
+&lt;br&gt;
+&lt;br&gt;Due to construction, please use the temporary stop &lt;b&gt;on 1 Av&lt;/b&gt; at E 87 St.
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+      <Date>03/26/2015</Date>
+      <Time> 8:02AM</Time>
+    </line>
+    <line>
+      <name>Q1 - Q113</name>
+      <status>PLANNED WORK</status>
+      <text>
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(92504);&gt;
+&lt;b&gt;Q7 and Q41- Eastbound/Northbound stop on Liberty Av at 95 St temporarily closed
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 92504 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice
+&lt;br&gt;
+&lt;br&gt;Due to construction, please use the temporary stop &lt;b&gt;on Cross Bay Blvd&lt;/b&gt; at Liberty Av.
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(94715);&gt;
+&lt;b&gt;Q66 Eastbound and Q100 &lt;/b&gt;LTD&lt;b&gt; northbound &lt;/b&gt; &lt;b&gt;buses detoured from 42 Rd between 27 St and Hunter St - No stops missed
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 94715 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice
+&lt;br&gt;
+&lt;br&gt;Due to road obstruction, buses may experience delays.
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(947150);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;
+&lt;br&gt;&lt;div id="947150"; style="display:none;"&gt;&lt;b&gt;Eastbound Q66
+&lt;br&gt;&lt;/b&gt;Via 28 St
+&lt;br&gt;Left on 42 Rd
+&lt;br&gt;Right on Jackson Av
+&lt;br&gt;Right on 43 Av
+&lt;br&gt;Right on 23 Av then regular route
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;Northbound Q100 LTD
+&lt;br&gt;&lt;/b&gt;Via Jackson Av
+&lt;br&gt;Right on 43 Av
+&lt;br&gt;Right on 23 Av then regular route&lt;/div&gt;
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(88492);&gt;
+&lt;b&gt;B20 and Q24 - Northbound/Westbound buses detoured from Van Sinderen Av at Broadway&lt;br clear= left&gt;Junction due to construction - No stops missed
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 88492 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(884920);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;
+&lt;br&gt;&lt;div id="884920"; style="display:none;"&gt;Via Jamaica Av
+&lt;br&gt;Into Fulton St
+&lt;br&gt;Right on Eastern Pkwy
+&lt;br&gt;Left on Broadway then regular route&lt;/div&gt;
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;Reminder&lt;/b&gt;:  &lt;a href=http://web.mta.info/nyct/bus/schedule/bkln/b020cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;B20&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt; buses do not operate overnight.
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+      <Date>03/26/2015</Date>
+      <Time> 9:13AM</Time>
+    </line>
+    <line>
+      <name>QM1 - QM25</name>
+      <status>GOOD SERVICE</status>
+      <text></text>
+      <Date></Date>
+      <Time></Time>
+    </line>
+    <line>
+      <name>S40 - S98</name>
+      <status>SERVICE CHANGE</status>
+      <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;03/26/2015&amp;nbsp; 8:01AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;S53&lt;/STRONG&gt; buses are detoured, due to milling on Broadway between Castleton Av&#xA0;and Delafield Av. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;4 Av bound&lt;/STRONG&gt;: Via Castleton Av, right on Bement Av, right on Forest Av, left on Broadway and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Port Richmond bound:&lt;/STRONG&gt; Via Broadway, right on Forest Av, left on Bement Av, left on Castleton Av and regular route.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+      <Date>03/26/2015</Date>
+      <Time> 8:01AM</Time>
+    </line>
+    <line>
+      <name>x1 - x68</name>
+      <status>SERVICE CHANGE</status>
+      <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;03/26/2015&amp;nbsp; 8:01AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;X17A&lt;/STRONG&gt;&#xA0;and &lt;STRONG&gt;X19&lt;/STRONG&gt; buses are detoured due to heavy traffic on the Staten Island Expy eastbound.&lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;X17A Northbound&lt;/STRONG&gt;: Via Richmond Av, right Deppe Pl into Watchogue Rd, left on Victory Blvd, right on Slosson Av onto Staten Island Expy and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;X19 Northbound&lt;/STRONG&gt;: Via Service Rd, right on Victory Blvd, right on Slosson Av onto Staten Island Expy and regular route.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+      <Date>03/26/2015</Date>
+      <Time> 8:01AM</Time>
+    </line>
+  </bus>
+  <BT>
+    <line>
+      <name>Bronx-Whitestone</name>
+      <status>GOOD SERVICE</status>
+      <text></text>
+      <Date></Date>
+      <Time></Time>
+    </line>
+    <line>
+      <name>Cross Bay</name>
+      <status>GOOD SERVICE</status>
+      <text></text>
+      <Date></Date>
+      <Time></Time>
+    </line>
+    <line>
+      <name>Henry Hudson</name>
+      <status>GOOD SERVICE</status>
+      <text></text>
+      <Date></Date>
+      <Time></Time>
+    </line>
+    <line>
+      <name>Hugh L. Carey</name>
+      <status>SERVICE CHANGE</status>
+      <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/26/2015&amp;nbsp; 5:40AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  HOV Lane Open 6 AM to 10 AM. Two-Way Operations in effect. Three (3) lanes Manhattan-bound. One (1) lane Brooklyn-bound.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+      <Date>03/26/2015</Date>
+      <Time> 5:40AM</Time>
+    </line>
+    <line>
+      <name>Marine Parkway</name>
+      <status>GOOD SERVICE</status>
+      <text></text>
+      <Date></Date>
+      <Time></Time>
+    </line>
+    <line>
+      <name>Queens Midtown</name>
+      <status>DELAYS</status>
+      <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/26/2015&amp;nbsp; 8:35AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  OFF PROPERTY DELAYS AFFECTING THE QUEENS MIDTOWN TUNNEL - WESTBOUND (MANHATTAN BOUND).  EXPECT DELAYS.
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/26/2015&amp;nbsp; 5:41AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  HOV Lane Open 6 AM to 10 AM. Two-Way Operations in effect. Three (3) lanes Manhattan-bound. One (1) lane Queens-bound.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+      <Date>03/26/2015</Date>
+      <Time> 8:35AM</Time>
+    </line>
+    <line>
+      <name>Robert F. Kennedy</name>
+      <status>SERVICE CHANGE</status>
+      <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/17/2015&amp;nbsp; 6:28AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  One of two lanes on the Robert F. Kennedy Bridge's ramp leading &lt;SPAN style="FONT-FAMILY: 'Arial','sans-serif'"&gt;from the bridge to the Bruckner Expressway will be closed for repair work &lt;B&gt;March 16 through April 13. &lt;/B&gt;One lane on the ramp will remain open at all times. &lt;/SPAN&gt;
+&lt;P  style="MARGIN: 0in 0in 0pt 0.75in; LINE-HEIGHT: 115%"&gt;&lt;SPAN style="FONT-FAMILY: 'Arial','sans-serif'"&gt;&lt;FONT size=3&gt;&amp;nbsp;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;&lt;SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Arial','sans-serif';"&gt;Motorists may experience delays and should allot extra travel time.&lt;/SPAN&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+      <Date>03/17/2015</Date>
+      <Time> 6:28AM</Time>
+    </line>
+    <line>
+      <name>Throgs Neck</name>
+      <status>GOOD SERVICE</status>
+      <text></text>
+      <Date></Date>
+      <Time></Time>
+    </line>
+    <line>
+      <name>Verrazano-Narrows</name>
+      <status>SERVICE CHANGE</status>
+      <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/26/2015&amp;nbsp; 8:54AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Due to a fog condition motorists are asked to drive at reduced speeds.
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/16/2015&amp;nbsp; 6:24AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;FONT size=3 face="Times New Roman"&gt;&lt;/FONT&gt;
+&lt;P style="MARGIN: 0in 0in 0pt"&gt;&lt;B&gt;&lt;FONT size=3&gt;&lt;FONT face="Times New Roman"&gt;VNB - UPPER LEVEL TRAFFIC PATTERN &lt;/FONT&gt;&lt;/FONT&gt;&lt;/B&gt;&lt;/P&gt;&lt;FONT size=3 face="Times New Roman"&gt;&lt;/FONT&gt;
+&lt;P style="MARGIN: 0in 0in 0pt"&gt;
+&lt;P style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-FAMILY: 'Calibri',sans-serif; COLOR: black"&gt;&lt;FONT size=3&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;SPAN style="FONT-FAMILY: 'Calibri',sans-serif; COLOR: black"&gt;&lt;FONT size=3&gt;Monday thru Thursday: 5 AM to 9:30 AM (3) Lanes Brooklyn-bound. (2) Lanes Staten Island-bound.&lt;/FONT&gt;&lt;/P&gt;
+&lt;P style="MARGIN: 0in 0in 8pt"&gt;&lt;FONT size=3&gt;2:30 PM to 10PM (3) Lanes Staten Island-bound. (2) Lanes Brooklyn-bound.&lt;/FONT&gt;&lt;/P&gt;
+&lt;P style="MARGIN: 0in 0in 8pt"&gt;&lt;FONT size=3&gt;&amp;nbsp;&lt;/FONT&gt;&lt;/P&gt;
+&lt;P style="MARGIN: 0in 0in 8pt"&gt;&lt;FONT size=3&gt;&lt;SPAN&gt;&amp;nbsp;&lt;/SPAN&gt;&lt;/FONT&gt;&lt;FONT size=3&gt;Friday: 5 AM to 9:30 AM (3) Lanes Bklyn-bnd. (2) Lanes Staten Island-bound.&lt;/FONT&gt;&lt;/P&gt;
+&lt;P style="MARGIN: 0in 0in 8pt"&gt;&lt;FONT size=3&gt;1:30 PM to 11:59 PM (3) Lanes Staten Island-bound. (2) Lanes Brooklyn-bound.&lt;/FONT&gt;&lt;/P&gt;
+&lt;P style="MARGIN: 0in 0in 8pt"&gt;&lt;FONT size=3&gt;&amp;nbsp;&lt;/FONT&gt;&lt;/P&gt;
+&lt;P style="MARGIN: 0in 0in 8pt"&gt;&lt;FONT size=3&gt;&lt;SPAN&gt;&amp;nbsp;&lt;/SPAN&gt;&lt;/FONT&gt;&lt;FONT size=3&gt;Saturday and Sunday:&lt;/FONT&gt;&lt;/P&gt;
+&lt;P style="MARGIN: 0in 0in 8pt"&gt;&lt;FONT size=3&gt;&amp;nbsp;&lt;/FONT&gt;&lt;FONT size=3&gt;Three (3) Lanes Staten Island-bound. Two (2) Lanes Brooklyn-bound.&lt;/FONT&gt;&lt;/P&gt;
+&lt;P style="MARGIN: 0in 0in 0pt"&gt;&lt;/SPAN&gt;&lt;FONT size=3 face="Times New Roman"&gt;&amp;nbsp;&lt;/FONT&gt;&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+      <Date>03/26/2015</Date>
+      <Time> 8:54AM</Time>
+    </line>
+  </BT>
+  <LIRR>
+    <line>
+      <name>Babylon</name>
+      <status>GOOD SERVICE</status>
+      <text></text>
+      <Date></Date>
+      <Time></Time>
+    </line>
+    <line>
+      <name>City Terminal Zone</name>
+      <status>GOOD SERVICE</status>
+      <text></text>
+      <Date></Date>
+      <Time></Time>
+    </line>
+    <line>
+      <name>Far Rockaway</name>
+      <status>GOOD SERVICE</status>
+      <text></text>
+      <Date></Date>
+      <Time></Time>
+    </line>
+    <line>
+      <name>Hempstead</name>
+      <status>GOOD SERVICE</status>
+      <text></text>
+      <Date></Date>
+      <Time></Time>
+    </line>
+    <line>
+      <name>Long Beach</name>
+      <status>GOOD SERVICE</status>
+      <text></text>
+      <Date></Date>
+      <Time></Time>
+    </line>
+    <line>
+      <name>Montauk</name>
+      <status>GOOD SERVICE</status>
+      <text></text>
+      <Date></Date>
+      <Time></Time>
+    </line>
+    <line>
+      <name>Oyster Bay</name>
+      <status>GOOD SERVICE</status>
+      <text></text>
+      <Date></Date>
+      <Time></Time>
+    </line>
+    <line>
+      <name>Port Jefferson</name>
+      <status>GOOD SERVICE</status>
+      <text></text>
+      <Date></Date>
+      <Time></Time>
+    </line>
+    <line>
+      <name>Port Washington</name>
+      <status>GOOD SERVICE</status>
+      <text></text>
+      <Date></Date>
+      <Time></Time>
+    </line>
+    <line>
+      <name>Ronkonkoma</name>
+      <status>GOOD SERVICE</status>
+      <text></text>
+      <Date></Date>
+      <Time></Time>
+    </line>
+    <line>
+      <name>West Hempstead</name>
+      <status>GOOD SERVICE</status>
+      <text></text>
+      <Date></Date>
+      <Time></Time>
+    </line>
+  </LIRR>
+  <MetroNorth>
+    <line>
+      <name>Hudson</name>
+      <status>GOOD SERVICE</status>
+      <text></text>
+      <url></url>
+      <Date></Date>
+      <Time></Time>
+    </line>
+    <line>
+      <name>Harlem</name>
+      <status>GOOD SERVICE</status>
+      <text></text>
+      <url></url>
+      <Date></Date>
+      <Time></Time>
+    </line>
+    <line>
+      <name>Wassaic</name>
+      <status>GOOD SERVICE</status>
+      <text></text>
+      <url></url>
+      <Date></Date>
+      <Time></Time>
+    </line>
+    <line>
+      <name>New Haven</name>
+      <status>GOOD SERVICE</status>
+      <text></text>
+      <url></url>
+      <Date></Date>
+      <Time></Time>
+    </line>
+    <line>
+      <name>New Canaan</name>
+      <status>GOOD SERVICE</status>
+      <text></text>
+      <url></url>
+      <Date></Date>
+      <Time></Time>
+    </line>
+    <line>
+      <name>Danbury</name>
+      <status>GOOD SERVICE</status>
+      <text></text>
+      <url></url>
+      <Date></Date>
+      <Time></Time>
+    </line>
+    <line>
+      <name>Waterbury</name>
+      <status>GOOD SERVICE</status>
+      <text></text>
+      <url></url>
+      <Date></Date>
+      <Time></Time>
+    </line>
+    <line>
+      <name>Pascack Valley</name>
+      <status>GOOD SERVICE</status>
+      <text></text>
+      <url></url>
+      <Date></Date>
+      <Time></Time>
+    </line>
+    <line>
+      <name>Port Jervis</name>
+      <status>GOOD SERVICE</status>
+      <text></text>
+      <url></url>
+      <Date></Date>
+      <Time></Time>
+    </line>
+  </MetroNorth>
+</service>
